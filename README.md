@@ -1,3 +1,3 @@
 # Web-Design 1300
 
-<a href="intro_to_html/index.html"> Intro to HTML<a/>
+<a href="Intro_html/index.html"> Intro to HTML<a/>
