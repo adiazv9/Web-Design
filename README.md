@@ -8,6 +8,6 @@
     
   <li><a href="Advanced_css/Index.html" target="_blank"> Advanced CSS </a></li>  
     
-    
+  <li><a href="Responsive/Index.html" target= "_blanl">Panthom </a></li>
 </ul>
 
