@@ -9,5 +9,6 @@
   <li><a href="Advanced_css/Index.html" target="_blank"> Advanced CSS </a></li>  
     
   <li><a href="Responsive/Index.html" target= "_blanl">Responsive Web-design </a></li>
+  <li><a href="Final/Index.html" target= "_blank"> Final Project </a> </li>
 </ul>
 
