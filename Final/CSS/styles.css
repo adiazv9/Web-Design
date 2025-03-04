@@ -23,7 +23,10 @@ img {
   styled-link { text-decoration: none; color: #1a73e8; font-size: 18px; font-weight: bold; transition: all 0.3s ease; } 
     .styled-link {
     color: #ff5733; 
-    text-decoration: underline; 
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
     transform: scale(1.05);
     
 }
